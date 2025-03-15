@@ -613,3 +613,5 @@ fabric.properties
 .ruby-version
 /**/.ruby-version
 vendor/
+
+# 템플릿 테스트용 디렉토리
